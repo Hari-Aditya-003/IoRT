@@ -1,0 +1,12 @@
+PREFERANCE LINK :
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
+
+NODE MCU BOARD ADDING TO ARDUINO IDE:
+https://www.instructables.com/Steps-to-Setup-Arduino-IDE-for-NODEMCU-ESP8266-WiF/
+
+
+
+NODE MCU DHT11 DATA SENDING TO THINKSPEAK PLATFORM :
+https://how2electronics.com/dht11-humidity-temperature-nodemcu-thingspeak/
